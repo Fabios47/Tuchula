@@ -1,0 +1,8 @@
+{
+  "name": "Tuchula",
+  "description": "O marketplace mais seguro e transparente de Moçambique. Compre e venda produtos físicos e digitais com segurança garantida pelo sistema de escrow.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
